@@ -30,8 +30,10 @@ To run the analysis, follow these steps:
 2. Navigate to the project directory:
    cd indian-weather-analysis
 3. Install the required packages:
-   pip install -r requirements.txt
-4. Ensure you have the IndianWeatherReport.csv file in the project directory.
+   pip install pandas
+   pip install numpy
+   pip install seaborn mapplotlib
+5. Ensure you have the IndianWeatherReport.csv file in the project directory.
 
 ## Analysis
 The analysis includes the following steps:
